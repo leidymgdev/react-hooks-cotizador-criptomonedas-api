@@ -1,3 +1,18 @@
+# react-hooks-cotizador-criptomonedas-api
+
+Proyecto cotizador de criptomonedas por medio de la api: https://min-api.cryptocompare.com/documentation?key=Price&cat=multipleSymbolsFullPriceEndpoint
+Obtener criptomonedas: https://min-api.cryptocompare.com/data/top/mktcapfull?limit=10&tsym=USD
+Cotización criptomonedas: https://min-api.cryptocompare.com/data/pricemultifull?fsyms=BTC&tsyms=USD,EUR
+
+### Url productiva: https://amazing-galileo-810578.netlify.app/
+
+# Tecnologías Usadas
+
+- Html
+- Css
+- Javascript
+- React: Functional componentes, useState, useEffect, styled components, spin kit, hooks, axios, carga condicional de componentes etc.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
